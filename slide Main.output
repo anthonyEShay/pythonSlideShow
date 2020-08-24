@@ -1,0 +1,4 @@
+  File "C:/Users/muyma/Desktop/Py Slide Show/slide Main.py", line 22
+    import slide Main_support
+                 ^
+SyntaxError: invalid syntax
